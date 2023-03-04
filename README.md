@@ -85,3 +85,15 @@ Lending tools are here today that can change the face of finance forever.  We us
 # Lets Breakdown the code we used as an example in this hackathon?
 etc. etc. etc.
 (MORE INFO TO COME)
+
+HUMA.FINANCE
+
+2 notes on lening between web3 and traditional business:
+<br>
+<br>
+<i>
+Income: Income (cashflow) is the most vital signal in a wide array of underwriting scenarios, since it offers the best measure for ability to pay. The more comprehensive we can understand income, the better we can underwrite.
+
+Receivables: Today, collateral in DeFi mainly represents a handful of digital assets. The majority of businesses and people in the world do not have tons of digital assets idling, but they do have receivables in the form of future invoices, transactions, subscription revenue, paychecks, royalties etc. In fact, in structured finance, such receivables are regularly used in the securitization of loans. Receivables are the best signal for commitment to pay, because once an entity transfers the ownership of their receivables to the lending platform, it acts as a payment guarantee. We actually think collaterals are just special forms of receivables.</i>
+Source: https://docs.huma.finance/
+
